@@ -1,0 +1,9 @@
+Change the Logo and name
+Add proper contact us 
+Add social media and map properly
+Make the Dashboard Visually appealing 
+Add necessary details for Each cars 
+Add customer reviews
+Add proper authentication for the admin 
+Ensure Search is working fine 
+Plan something for the photo,video upload 

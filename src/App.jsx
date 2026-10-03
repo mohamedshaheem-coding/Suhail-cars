@@ -20,7 +20,7 @@ import Reviews from './pages/admin/Reviews';
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/suhail-cars">
         <Routes>
           {/* Public Routes */}
           <Route element={<PublicLayout />}>
